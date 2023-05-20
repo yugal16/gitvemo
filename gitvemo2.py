@@ -16,4 +16,8 @@ print('btao tereko gadhe')
 print('ki krlega')
 print('bolo tararaa')
 print('pagol')
+<<<<<<< HEAD
 print('line 19 in local')
+=======
+print('line 19 in github')
+>>>>>>> dec91c36f8b4834c8180e94856d99f8af9c3f587
